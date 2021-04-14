@@ -1,0 +1,2 @@
+com/pixeon/tech/challenge/healthinstitutioncontrolservice/HealthInstitutionControlServiceApplicationTests.java
+ com.pixeon.tech.challenge.healthinstitutioncontrolservice.HealthInstitutionControlServiceApplicationTests
